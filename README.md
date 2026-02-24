@@ -11,6 +11,7 @@ Building on the cleaned dataset from Part 1, this notebook dives into explorator
 **NYC Taxi Dashboard**
  
 **Download the Power BI (.pbix) file:** 
+
 Link: https://drive.google.com/file/d/1csaNu_oziqtKZcinH07LRVxbgM0jX9GT/view?usp=drive_link
 
 To bring the insights to life, I created an interactive NYC Taxi Dashboard (preview shown in taxi.jpg). This dashboard showcases key metrics and trends from the cleaned and analyzed data — from daily trip counts to fare distributions and distance patterns — all in a visual and intuitive layout. It’s a great way to explore the story in the data at a glance, and serves as a polished, user-friendly companion to the notebooks.
