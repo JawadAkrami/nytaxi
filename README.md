@@ -6,7 +6,7 @@ The project is split into two main notebooks along with an interactive dashboard
 
 * [Project 1](https://github.com/JawadAkrami/nytaxi/blob/main/nytaxi_p1.ipynb) focuses on data cleaning, preprocessing, and exploratory data analysis.
 * [Project 2](https://github.com/JawadAkrami/nytaxi/blob/main/nytaxi_p2.ipynb) moves into feature engineering and data analysis.
-* [Dashboard](https://github.com/JawadAkrami/nytaxi/blob/main/nytaxi_p2.ipynb) brings the results together through interactive visualizations and insights.
+* [Dashboard](https://github.com/JawadAkrami/nytaxi/blob/main/taxi.jpg) brings the results together through interactive visualizations and insights.
 
 The idea behind this project was to take raw transportation data and turn it into something meaningful. Along the way, the notebooks dig into questions like:
 When do taxi demands spike up? Which areas rack up the highest fares? How do weather, time, and traffic patterns affect trip durations? What factors stand out the most when predicting ride behavior?
